@@ -35,7 +35,6 @@
 
 <br />
 
-<img src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif" align ="left" >
 
 <details>
 <summary>:bulb: Github Stats</summary>
@@ -52,3 +51,5 @@
 [twitter]: https://twitter.com/tuncerRstm
 [linkedin]: https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/
 [instagram]:https://www.instagram.com/toniochmuzi/
+
+<img src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif" align ="left" >
