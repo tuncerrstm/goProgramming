@@ -35,6 +35,8 @@
 
 <br />
 
+<img src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif" align ="left" >
+
 <details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=tuncerrstm&theme=radical" >
